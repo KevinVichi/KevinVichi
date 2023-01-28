@@ -1,4 +1,4 @@
-### Hi there 👋, Yo soy Kevin
+### Hi there 👋, Yo soy Kevin Vichicela
 
 <!--
 **KevinVichi/KevinVichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/107277704/215283122-49c278d2-98f5-4cf2-bad3-117ea8f230de.png)
+<div id="header" aling="center">
+<img src="https://user-images.githubusercontent.com/107277704/215283122-49c278d2-98f5-4cf2-bad3-117ea8f230de.png" width="200">
+</div>
+
+
+
 
