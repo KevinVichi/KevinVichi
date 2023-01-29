@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/107277704/215283122-49c278d2-98f5-4cf2-bad3-117ea8f230de.png" width="200">
 </div>
 
-Soy un joven desarrollador de software. Estudio en la Universidad Tecnica de Ambato. He trabajado con proyectos usando Git.
+Soy un joven desarrollador de software. Estudio en la Universidad Técnica de Ambato. He trabajado con proyectos usando Git.
 
 ## 👓 Mira  mis tutoriales en:
 <a href="https://www.twitch.tv/">
@@ -29,7 +29,7 @@ Soy un joven desarrollador de software. Estudio en la Universidad Tecnica de Amb
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-## 💻 Algunas tecnologias que yo uso:
+## 💻 Algunas tecnologías que uso:
 
 <a href="https://analytics.google.com/analytics/web/provision/#/provision)">
     <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
@@ -81,11 +81,11 @@ Soy un joven desarrollador de software. Estudio en la Universidad Tecnica de Amb
 * <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 ## ✅ Algo mas:
-* Ahora estoy aprendiendo Php e Ingles. (:≡
+* Ahora estoy aprendiendo Php e Inglés. (:≡
 * Estoy interesado en la Inteligencia Artificial. ♨︎_♨︎
-* Si tienes una pregunta o necesitas ayuda, escribeme. ᓚᘏᗢ
+* Si tienes una pregunta o necesitas ayuda, escríbeme! ᓚᘏᗢ
 
-## 🥲 Mis estadisticas:
+## 🥲 Mis estadísticas:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinVichi)](https://github.com/KevinVichi/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVichi&layout=compact)](https://github.com/KevinVichi/github-readme-stats)
